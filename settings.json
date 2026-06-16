@@ -1,13 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Uzair Baloch",
+    "username":"DIDDY",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "SLAYER555555553.aternos.me
-    ",
+    "ip": "SLAYER555555553.aternos.me",
     "port": 63163,
     "version": "1.20.1",
     "try-creative": false
@@ -29,7 +28,7 @@
     },
     "chat-messages": {
       "enabled": false,
-      "repeat": true,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
@@ -83,6 +82,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
